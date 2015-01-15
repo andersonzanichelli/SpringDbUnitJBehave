@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <PERSON id="1" name="Anderson Zanichelli" country="Brazil" />
+    <PERSON id="2" name="Bilbo Baggins" country="The Shire" />
+    <PERSON id="3" name="Aria Stark" country="Winterfell" />
+    <PERSON id="4" name="Walter White" country="United States" />
+</dataset>
